@@ -4,6 +4,9 @@
 
 Inspirado en juegos como *Story Cubes*, pero con un enfoque personal, abierto y adaptable.
 
+👉 [🃏 Jugar ahora en línea](https://jfleitas-dev.github.io/narracartas/)
+
+
 ## 🚀 ¿Cómo funciona?
 
 - Al hacer clic en **"Revelar cartas"**, aparecen símbolos al azar.
