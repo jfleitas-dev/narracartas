@@ -19,6 +19,10 @@ const emojis = [
 const numDice = 6;
 
 function rollDice() {
+  // 🔊 Reproducir sonido al presionar el botón
+  const sonido = new Audio("sounds/cartas.wav"); // o .mp3 si corresponde
+  sonido.play();
+
   const container = document.getElementById("dice-container");
   container.innerHTML = "";
 
